@@ -12,7 +12,7 @@ public class Constructer {
 	
 	Constructer(){
 		// Constructer used only for assigning the value to variable. No logic implemented here.
-		x = 10;
+		x = 40;
 		y = 20;
 		z = 40;
 		
